@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+[새박이의 데일리리포트](https://new-daily-report-1feec.firebaseapp.com/)
